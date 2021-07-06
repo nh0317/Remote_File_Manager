@@ -1,0 +1,14 @@
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\bin\Debug\FileManagerClient.exe.config
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\bin\Debug\FileManagerClient.exe
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\bin\Debug\FileManagerClient.pdb
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.Client.resources
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.Properties.Resources.resources
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.csproj.GenerateResource.cache
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.csproj.CoreCompileInputs.cache
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.exe
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.pdb
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.csprojAssemblyReference.cache
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.Client2.resources
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\bin\Debug\PacketLibrary.dll
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\bin\Debug\PacketLibrary.pdb
+C:\knh\knh\대학2\3-1\응소실\[HW2]2019203025_김나현\FIleManagerServer\FileManagerClient\obj\Debug\FileManagerClient.csproj.CopyComplete
